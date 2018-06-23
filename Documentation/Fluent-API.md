@@ -1,5 +1,6 @@
 # Fluent API
 
+Instructions on how to use the fluent API
 ### Query-building
 
 Some examples:
